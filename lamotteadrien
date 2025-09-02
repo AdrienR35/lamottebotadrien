@@ -1,0 +1,258 @@
+# Bot du groupe LAMOTTE
+
+Message initial :  
+
+👋 Bienvenue sur le bot du groupe **LAMOTTE** ! 🎉  
+
+Ce chatbot a été développé par **Adrien ROUX**, alternant en licence professionnelle.  
+⚠️ Il n’est pas destiné à un usage quotidien au sein de l’entreprise.  
+✅ Son utilisation est autorisée uniquement pour la phase d’expérimentation.  
+👉 Merci de vos retours.  
+
+À qui concerne votre question ? ⬇️  
+
+1. [👤 Locataire](locataire)  
+2. [🏠 Bailleur](bailleur)  
+
+---
+
+## locataire
+Vous avez choisi **Locataire**. Sélectionnez un thème :  
+
+1. [💰 Dépôt de garantie](locataire_depot)  
+2. [🔧 Réparations](locataire_reparations)  
+3. [📋 État des lieux de sortie](locataire_etat)  
+4. [🚫 Logement non décent](locataire_decent)  
+5. [📊 Charges récupérables](locataire_charges)  
+6. [💸 Loyers impayés](locataire_impayes)  
+7. [🧹 Ménage et dépôt de garantie](locataire_menage)  
+8. [🔊 Nuisances sonores](locataire_nuisances)  
+9. [⏳ Vétusté](locataire_vetuste)  
+10. [👷 Travaux et refus d’accès](locataire_travaux)  
+
+[⬅️ Retour Accueil](accueil)
+
+---
+
+## bailleur
+Vous avez choisi **Bailleur**. Sélectionnez un thème :  
+
+1. [💰 Dépôt de garantie](bailleur_depot)  
+2. [🔧 Réparations](bailleur_reparations)  
+3. [📋 État des lieux de sortie](bailleur_etat)  
+4. [🚫 Logement non décent](bailleur_decent)  
+5. [📊 Charges récupérables](bailleur_charges)  
+6. [💸 Loyers impayés](bailleur_impayes)  
+7. [🧹 Ménage et dépôt de garantie](bailleur_menage)  
+8. [🔊 Nuisances sonores](bailleur_nuisances)  
+9. [⏳ Vétusté](bailleur_vetuste)  
+10. [👷 Travaux et refus d’accès](bailleur_travaux)  
+
+[⬅️ Retour Accueil](accueil)
+
+---
+
+## locataire_depot
+**💰 Dépôt de garantie (Locataire)**  
+- Le dépôt de garantie est plafonné à **1 mois de loyer hors charges** pour une location vide (art. 22 de la loi du 6 juillet 1989).  
+- Il doit être restitué dans un délai de **1 mois** si l’état des lieux de sortie est conforme à l’entrée.  
+- Le délai peut être porté à **2 mois** si des retenues sont justifiées (dégradations, loyers impayés).  
+- En cas de retard, le montant dû est majoré de **10 % du loyer mensuel par mois de retard** (art. 22 loi 1989).  
+
+[⬅️ Retour Locataire](locataire)
+
+---
+
+## bailleur_depot
+**💰 Dépôt de garantie (Bailleur)**  
+- Vous devez restituer le dépôt dans les délais légaux :  
+  - **1 mois** si état des lieux conforme,  
+  - **2 mois** si dégradations ou impayés justifiés.  
+- Toute retenue doit être **justifiée par devis ou factures** (pas de retenue forfaitaire).  
+- Retard = pénalité de 10 % du loyer mensuel par mois de retard (art. 22 loi 1989).  
+
+[⬅️ Retour Bailleur](bailleur)
+
+---
+
+## locataire_reparations
+**🔧 Réparations (Locataire)**  
+- Vous devez assumer l’**entretien courant** du logement et les petites réparations (art. 7 loi 1989 + décret n°87-712 du 26 août 1987).  
+- Exemples : changer un joint, une ampoule, entretien du jardin, ménage.  
+- Les grosses réparations (toiture, chaudière, canalisations) sont à la charge du bailleur.  
+
+[⬅️ Retour Locataire](locataire)
+
+---
+
+## bailleur_reparations
+**🔧 Réparations (Bailleur)**  
+- Vous devez effectuer toutes les réparations nécessaires pour maintenir le logement en état (art. 6 loi 1989).  
+- Exemples : chaudière défectueuse, infiltrations, électricité dangereuse.  
+- Le bailleur ne peut pas transférer ces charges au locataire.  
+
+[⬅️ Retour Bailleur](bailleur)
+
+---
+
+## locataire_etat
+**📋 État des lieux de sortie (Locataire)**  
+- Si vous refusez de signer ou êtes absent, l’état des lieux peut être dressé par **huissier**, frais partagés à 50 % (art. 3-2 loi 1989).  
+- L’état des lieux compare entrée/sortie et sert de base pour d’éventuelles retenues.  
+
+[⬅️ Retour Locataire](locataire)
+
+---
+
+## bailleur_etat
+**📋 État des lieux de sortie (Bailleur)**  
+- En cas d’absence ou refus du locataire → recours à un huissier, frais partagés.  
+- Vous devez convoquer le locataire par lettre recommandée avec AR ou acte d’huissier (art. 3-2 loi 1989).  
+
+[⬅️ Retour Bailleur](bailleur)
+
+---
+
+## locataire_decent
+**🚫 Logement non décent (Locataire)**  
+- Un logement doit répondre aux critères de **décence** fixés par le décret du 30 janvier 2002 : surface minimale, sécurité, étanchéité, équipements.  
+- Vous pouvez demander au bailleur la mise en conformité (LRAR).  
+- En cas d’inaction → saisine du juge ou suspension de l’APL par la CAF.  
+
+[⬅️ Retour Locataire](locataire)
+
+---
+
+## bailleur_decent
+**🚫 Logement non décent (Bailleur)**  
+- Vous avez l’obligation de délivrer un logement **sain, sûr et conforme** (art. 6 loi 1989).  
+- Risques en cas de non-respect : réduction de loyer, suspension d’APL, injonction judiciaire de réaliser les travaux.  
+
+[⬅️ Retour Bailleur](bailleur)
+
+---
+
+## locataire_charges
+**📊 Charges récupérables (Locataire)**  
+- Vous payez uniquement les **charges locatives prévues par le décret du 26 août 1987**.  
+- Vous pouvez demander un décompte détaillé, et consulter les justificatifs pendant **6 mois** (art. 23 loi 1989).  
+- Exemples : eau, ordures ménagères, entretien des communs.  
+
+[⬅️ Retour Locataire](locataire)
+
+---
+
+## bailleur_charges
+**📊 Charges récupérables (Bailleur)**  
+- Vous devez justifier les charges récupérées par un décompte détaillé (art. 23 loi 1989).  
+- Sont récupérables : eau froide, OM, entretien des communs, ascenseur.  
+- Toute charge non listée par le décret n°87-713 du 26 août 1987 n’est pas récupérable.  
+
+[⬅️ Retour Bailleur](bailleur)
+
+---
+
+## locataire_impayes
+**💸 Loyers impayés (Locataire)**  
+- Le bailleur peut délivrer un **commandement de payer** via huissier (art. 24 loi 1989).  
+- Vous avez **2 mois** pour régulariser ou saisir le juge.  
+- Risques : résiliation du bail, expulsion.  
+- Solutions : contacter le bailleur, demander un plan d’apurement, solliciter Visale ou le FSL.  
+
+[⬅️ Retour Locataire](locataire)
+
+---
+
+## bailleur_impayes
+**💸 Loyers impayés (Bailleur)**  
+- Étapes légales :  
+  1. Relance amiable (courrier/mail).  
+  2. Commandement de payer par huissier → délai 2 mois (art. 24 loi 1989).  
+  3. Saisine du tribunal pour résiliation et expulsion.  
+- Pensez à vérifier la garantie Visale ou le garant.  
+
+[⬅️ Retour Bailleur](bailleur)
+
+---
+
+## locataire_menage
+**🧹 Ménage et dépôt de garantie (Locataire)**  
+- Le bailleur peut retenir des frais de nettoyage uniquement si l’état des lieux de sortie mentionne une **saleté manifeste**.  
+- Toute retenue doit être justifiée par une **facture réelle** (pas d’estimation).  
+
+[⬅️ Retour Locataire](locataire)
+
+---
+
+## bailleur_menage
+**🧹 Ménage et dépôt de garantie (Bailleur)**  
+- Vous pouvez retenir une somme pour saleté uniquement si cela est mentionné dans l’état des lieux.  
+- Cette retenue doit être justifiée par **facture d’une société de ménage ou artisan**.  
+
+[⬅️ Retour Bailleur](bailleur)
+
+---
+
+## locataire_nuisances
+**🔊 Nuisances sonores (Locataire)**  
+- Vous devez respecter la tranquillité du voisinage (art. 7 loi 1989).  
+- Nuisances = troubles de jouissance → mises en demeure possibles.  
+- En cas de récidive grave → résiliation du bail par le juge.  
+
+[⬅️ Retour Locataire](locataire)
+
+---
+
+## bailleur_nuisances
+**🔊 Nuisances sonores (Bailleur)**  
+- Vous pouvez mettre en demeure un locataire bruyant (art. 7 loi 1989).  
+- Si persistance → action en résiliation judiciaire avec preuves (plaintes, constats).  
+
+[⬅️ Retour Bailleur](bailleur)
+
+---
+
+## locataire_vetuste
+**⏳ Vétusté (Locataire)**  
+- Les dégradations dues à l’**usure normale** (vétusté) ne sont pas à votre charge.  
+- Exemples : moquette usée après plusieurs années, peinture défraîchie.  
+- Une grille de vétusté peut être utilisée si prévue au bail.  
+
+[⬅️ Retour Locataire](locataire)
+
+---
+
+## bailleur_vetuste
+**⏳ Vétusté (Bailleur)**  
+- Les travaux liés à la vétusté sont à votre charge.  
+- Vous pouvez appliquer une **grille de vétusté** si annexée au bail, ce qui permet de partager certaines remises en état.  
+
+[⬅️ Retour Bailleur](bailleur)
+
+---
+
+## locataire_travaux
+**👷 Travaux et refus d’accès (Locataire)**  
+- Vous devez permettre l’accès au logement pour **travaux urgents ou nécessaires** (art. 7 loi 1989).  
+- Vous pouvez demander un préavis raisonnable et horaires adaptés.  
+- Si abus → recours possible au juge.  
+
+[⬅️ Retour Locataire](locataire)
+
+---
+
+## bailleur_travaux
+**👷 Travaux et refus d’accès (Bailleur)**  
+- Vous devez prévenir le locataire avant d’intervenir, sauf urgence.  
+- En cas de refus persistant → possibilité de saisir le juge pour obtenir une autorisation.  
+
+[⬅️ Retour Bailleur](bailleur)
+
+---
+
+## accueil
+👋 Bienvenue sur le bot du groupe **LAMOTTE** !  
+Sélectionnez ci-dessous :  
+
+1. [👤 Locataire](locataire)  
+2. [🏠 Bailleur](bailleur)
